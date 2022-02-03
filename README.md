@@ -1,5 +1,5 @@
 ## Hello there 👋
-![Photo](![Markel_Garland](https://user-images.githubusercontent.com/90632421/152442701-9de742f1-0449-4cca-b75b-651068c6578c.png))
+![Photo](![Markel_Garland](https://user-images.githubusercontent.com/90632421/152442921-7affec22-207f-4ab3-a932-3b4ac4241b6b.png))
 <!--
 **Markelg24/Markelg24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
