@@ -1,5 +1,7 @@
 ## Hello there 👋
-![My_Name_is_Markel_Garland](https://user-images.githubusercontent.com/90632421/152443802-1ab9403d-3022-44f6-b504-ce1ae1995968.png)<!--
+![My_Name_is_Markel_Garland](https://user-images.githubusercontent.com/90632421/152443802-1ab9403d-3022-44f6-b504-ce1ae1995968.png)
+
+<!--
 **Markelg24/Markelg24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
