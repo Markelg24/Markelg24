@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Markel Garland</h1>
+
+![A_Passionate_Web_Developer](https://user-images.githubusercontent.com/90632421/152450118-a7c00e70-cd93-4e75-9923-6dc5eb15ef82.png)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/markel garland" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="markel garland" height="30" width="40" /></a>
