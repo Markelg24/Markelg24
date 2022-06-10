@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **mcgarl99@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1R4zRahADnORC4Na0vd2SRJiGASObzjzwF_urHntPzpU/edit](https://docs.google.com/document/d/1R4zRahADnORC4Na0vd2SRJiGASObzjzwF_urHntPzpU/edit)
-
 - ⚡ Fun fact **I am a twin!**
 
 <h3 align="left">Connect with me:</h3>
