@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Markel Garland</h1>
 <h3 align="center">A Software Engineer</h3>
 
-- 🔭 I’m currently working on [Ecommerce Website](https://github.com/Markelg24/ecommerce_sanity_stripe)
+- 🔭 I’m currently attending Western Governors University as a Software Engineering Major
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
